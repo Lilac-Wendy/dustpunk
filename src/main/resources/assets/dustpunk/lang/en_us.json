@@ -1,0 +1,21 @@
+{
+  "block.dustpunk.anthrosol_sand": "Anthrosol Sand",
+  "block.dustpunk.ferric_sand": "Ferric Sand",
+  "block.dustpunk.loess_sand": "Loess Sand",
+  "block.dustpunk.ochre_sand": "Ochre Sand",
+  "block.dustpunk.volcanic_tephra": "Volcanic Tephra",
+  "block.dustpunk.phosphatic_sand": "Phosphatic Sand",
+  "block.dustpunk.glauconitic_sand": "Glauconitic Sand",
+  "block.dustpunk.calcic_sand": "Calcic Sand",
+  "block.dustpunk.diatomite_sand": "Diatomite Sand",
+  "block.dustpunk.anthrosol_sandstone": "Anthrosol Sandstone",
+  "block.dustpunk.ferric_sandstone": "Ferric Sandstone",
+  "block.dustpunk.loess_sandstone": "Loess Sandstone",
+  "block.dustpunk.ochre_sandstone": "Ochre Sandstone",
+  "block.dustpunk.volcanic_tephra_sandstone": "Volcanic Tephra Sandstone",
+  "block.dustpunk.phosphatic_sandstone": "Phosphatic Sandstone",
+  "block.dustpunk.glauconitic_sandstone": "Glauconitic Sandstone",
+  "block.dustpunk.calcic_sandstone": "Calcic Sandstone",
+  "block.dustpunk.diatomite_sandstone": "Diatomite Sandstone",
+  "creativetab.dustpunk_tab": "Dustpunk Sands"
+}
