@@ -38,7 +38,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
         tintedSandstoneBlock(PunkBlocks.CALCIC_SANDSTONE);
         tintedSandstoneBlock(PunkBlocks.DIATOMITE_SANDSTONE);
     }
-
+// Texture Solved
     private void tintedSandstoneBlock(RegistryObject<Block> block) {
         String blockName = block.getId().getPath();
 
